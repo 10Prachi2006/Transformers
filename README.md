@@ -79,7 +79,7 @@ Real intuition          ←→  Production-grade engineering
 |------|-------|-------------------|
 | **Part 1** | Why Language Is Hard for Machines | RNNs, vanishing gradients, the sequential bottleneck |
 | **Part 2** | The Idea That Changed Everything | "Attention Is All You Need" ➺ why 2017 was the inflection point |
-| **Part 3** | Attention: The Heart of the Transformer | Q/K/V, scaled dot-product attention, full tensor walkthrough |
+| **Part 3** | Attention: The Heart of the Transformer | Q/K/V, scaled dot-product attention,  tensor walkthrough |
 | **Part 4** | How Words Learn From Each Other | Self-attention, pronoun resolution, contextual embeddings |
 | **Part 5** | The Team of Experts Inside Attention | Multi-head attention, head specialization, tensor shapes |
 | **Part 6** | How Transformers Understand Order | Positional encoding, sinusoidal PE, RoPE, ALiBi |
@@ -217,12 +217,12 @@ The masterclass contains 50+ carefully placed diagrams at every key section:
 **Download the full PDF:**
 
 ```bash
-git clone https://github.com/yourusername/transformer-masterclass
-cd transformer-masterclass
+git clone https://github.com/10Prachi2006/Transformers.git
+cd Transformers
 # Open THE_TRANSFORMER_MASTERCLASS.pdf
 ```
 
-**Or read online:** [Full guide on Medium →]((https://medium.com/@starletprachi10/a-deep-learning-learning-document-cd51e531aff6))
+**Or read online:** [Full guide on Medium →](https://medium.com/@starletprachi10/a-deep-learning-learning-document-cd51e531aff6)
 
 ---
 
