@@ -5,7 +5,7 @@
 > A 100+ page visual, story-driven, ELI5-to-expert guide through the architecture that changed AI forever.
 
 ---
-### 📥 [Download the Full 148-Page Masterclass PDF Here](https://github.com)
+### 📥 [Download the Full 148-Page Masterclass PDF Here](https://github.com/10Prachi2006/Transformers/raw/main/THE_TRANSFORMER_MASTERCLASS_compressed.pdf)
 
 ---
 
