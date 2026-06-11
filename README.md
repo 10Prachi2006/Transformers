@@ -4,6 +4,11 @@
 >
 > A 100+ page visual, story-driven, ELI5-to-expert guide through the architecture that changed AI forever.
 
+---
+### 📥 [Download the Full 148-Page Masterclass PDF Here](https://github.com)
+
+---
+
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -229,14 +234,14 @@ cd Transformers
 ## 📂 Repository Structure
 
 ```
-transformer-masterclass/
+Transformers/
 │
 ├── THE_TRANSFORMER_MASTERCLASS.pdf                      ← Full 100+ page guide
 ├── medium_article/
 │   └── how_ai_stopped_reading_word_by_word.md           ← Medium article (20-min read)
 ├── README.md                                            ← This file
 │
-├── diagrams/                                            ← All 50+ diagrams (PNG)
+├── visuals/                                            ← All 50+ diagrams (PNG)
 │   ├── rnn_vs_transformer.png
 │   ├── attention_heatmap.png
 │   ├── qkv_explained.png
