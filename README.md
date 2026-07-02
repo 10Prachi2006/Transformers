@@ -19,6 +19,10 @@
 
 </div>
 
+
+<img width="2752" height="1485" alt="Visual_Guide_to_AI_Transformers" src="https://github.com/user-attachments/assets/946449f3-3668-4dd9-a241-2e259df3fc9c" />
+
+
 ---
 
 ## 📖 What Is This?
@@ -183,7 +187,8 @@ GQA (Sweet Spot):
 | Context window | ~10 tokens | ~100 tokens | 100K+ tokens |
 | Powers modern LLMs? | ❌ | ❌ | ✅ GPT, Claude, Gemini |
 
-<img width="2752" height="1501" alt="AI_Reading_vs_Transformer_Reading (1)" src="https://github.com/user-attachments/assets/71828bde-256a-4b25-be82-89daf6f1221b" />
+<img width="2752" height="1493" alt="Comparing_RNNs_and_Transformers" src="https://github.com/user-attachments/assets/d867f932-e5e2-499d-b649-9b3f745e1954" />
+
 
 
 ### Model Architecture Families
